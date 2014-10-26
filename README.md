@@ -44,8 +44,8 @@ You should create one R script called run_analysis.R that does the following.
 
 ## How to recreate the tidy data set
 
-1. clone this repository: `git clone git@github.com:maurotrb/getting-cleaning-data-2014-project.git`
-2. download [compressed raw data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
-3. unzip raw data and copy the directory `UCI HAR Dataset` to the cloned repository root directory
-4. open a R console and set the working directory to the repository root (use setwd())
-5. source run_analisys.R script (it requires the plyr package): `source('run_analysis.R')`
+1. Clone this repository
+2. Download compressed raw data (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+3. Unzip raw data and copy the directory `UCI HAR Dataset` to the cloned repository root directory
+4. Open the R console and set the working directory to the repository root (use setwd())
+5. Source run_analisys.R script (it requires the plyr package): source('run_analysis.R')
